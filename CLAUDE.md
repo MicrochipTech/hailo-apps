@@ -31,6 +31,7 @@ pip install -e .                       # Install in editable mode
 | `/hl-build-agent-app` | Build AI agent apps with tool calling |
 | `/hl-build-llm-app` | Build LLM chat apps |
 | `/hl-build-voice-app` | Build voice assistant apps |
+| `/hl-setup-meal-monitoring` | Set up meal monitoring demo (Windows + Thunderbolt) |
 
 
 ### Context Routing Table

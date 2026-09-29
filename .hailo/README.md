@@ -58,6 +58,11 @@ Step-by-step workflow guides for agents. All use the `hl-` prefix.
 | `hl-camera.md` | Camera setup, discovery, and management (USB, RPi, RTSP) |
 | `hl-model-management.md` | HEF model resolution, download, and configuration |
 
+### Setup Skills
+| File | Description |
+|---|---|
+| `hl-setup-meal-monitoring.md` | Set up the meal monitoring demo on Windows with Hailo-8 over Thunderbolt |
+
 ### Meta Skills
 | File | Description |
 |---|---|
